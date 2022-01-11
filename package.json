@@ -1,0 +1,20 @@
+{
+  "name": "router-change",
+  "version": "1.0.0",
+  "description": "一个监听vue和react路由切换的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezreal09/router-change.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ezreal09/router-change/issues"
+  },
+  "homepage": "https://github.com/Ezreal09/router-change#readme"
+}
